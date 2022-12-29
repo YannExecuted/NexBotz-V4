@@ -46,7 +46,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '62895622286921'
 global.nomorown = '6282117289550'
-global.namebot = 'GBotz'
+global.namebot = 'AkenoBotz'
 global.nameown = 'YatzModz'
 
 
@@ -105,9 +105,9 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By GBotz' //Main Watermark
+global.wm = 'By AkenoBotz' //Main Watermark
 global.wm2 = 'YatzModz'
-global.wm3 = 'GBotz | By YatzModz'
+global.wm3 = 'AkenoBotz | By YatzModz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `GremoryBotz | ʙʏ ${global.nameown}`
@@ -128,7 +128,7 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya GBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh RayleighDev Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya AkenoBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh RayleighDev Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'YatzModz'
@@ -383,7 +383,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By GBotz'
+global.stickpack = 'By AkenoBotz'
 global.stickauth = `YatzModz`
 
 global.multiplier = 38 // The higher, The harder levelup
