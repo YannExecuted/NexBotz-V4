@@ -30,7 +30,7 @@ ${htjava} *🧮 Kelas* : 10 ESEMKA
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, Cirebon, Jawa Barat
-${htjava} *❤️ Waifu* : Nothing
+${htjava} *❤️ Waifu* : Akeno🥵
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
