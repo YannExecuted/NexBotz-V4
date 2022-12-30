@@ -27,7 +27,7 @@ ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : 15
 ${htjava} *🧮 Kelas* : 10 ESEMKA
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
+${htjava} *🧩 Hobby* : Mendengarkan Musik
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, Cirebon, Jawa Barat
 ${htjava} *❤️ Waifu* : Akeno🥵
