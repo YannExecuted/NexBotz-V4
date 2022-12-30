@@ -585,7 +585,7 @@ function _0x1766() {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ sᴜᴘᴘᴏʀᴛᴇᴅ ʙʏ ᴘᴜᴛʀᴀᴍᴏᴅᴢ',
+            footer: titlebot + '\n⚡ sᴜᴘᴘᴏʀᴛᴇᴅ ʙʏ YATZMODZ',
             templateButtons: [
                 {
                     urlButton: {
