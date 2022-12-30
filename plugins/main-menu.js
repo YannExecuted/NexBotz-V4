@@ -201,8 +201,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ⌨︎ 𝖲 𝖳 𝖠 𝖳 𝖴 𝖲 」 ${htka}`,
 	rows: [
-	    {title: `📛 ɪɴғᴏ ʙᴏᴛ`, rowId: ".botinfo", description: "✧ ɪɴғᴏ ʙᴏᴛ xʏʟᴏɪᴅ"},
-	    {title: `💌 ɴᴏᴍᴏʀ ᴏᴡɴᴇʀ`, rowId: ".owner", description: "✧ ᴍᴇɴᴀᴍᴘɪʟᴋᴀɴ ɴᴏᴍᴏʀ ᴅᴀɴ ʙɪᴏᴅᴀᴛᴀ ᴏᴡɴᴇʀ"},
+	    {title: `📛 ɪɴғᴏ ʙᴏᴛ`, rowId: ".botinfo", description: "✧ ɪɴғᴏ ʙᴏᴛ ᴀᴋᴇɴᴏ-ᴍᴅ"},
+	    {title: `💌 ɴᴏᴍᴏʀ ᴏᴡɴᴇʀ`, rowId: ".owner", description: "✧ ᴍᴇɴᴀᴍᴘɪʟᴋᴀɴ ɴᴏᴍᴏʀ ᴅᴀɴ ʙɪᴏᴅᴀᴛᴀ ᴏᴡɴᴇʀ ᴀᴋᴇɴᴏ-ʙᴏᴛᴢ"},
             {title: `🗣 ʀᴇǫᴜᴇsᴛ ғɪᴛᴜʀ`, rowId: ".request", description: "✧ ʀᴇǫᴜᴇsᴛ ғɪᴛᴜʀ ᴋᴇᴘᴀᴅᴀ ʙᴏᴛ"},
             {title: `📊 ᴛᴇsᴛ sᴘᴇᴇᴅ`, rowId: ".testspeed", description: "✧ ᴛᴇsᴛ ᴋᴇᴄᴇᴘᴀᴛᴀɴ sɪɢɴᴀʟ ʙᴏᴛ"},
 	{title: `⚡ sᴘᴇᴇᴅ`, rowId: ".speed", description: "✧ ᴛᴇs ᴋᴇᴄᴇᴘᴀᴛᴀɴ ʀᴇsᴘᴏɴ ʙᴏᴛ"},
