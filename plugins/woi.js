@@ -32,7 +32,7 @@ contextInfo: { externalAdReply :{
                         mediaUrl: '',
                         mediaType: 2,
                         description: 'anu',
-                        title: `A PUTRA🎧 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
+                        title: `A YATZ🎧 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `Join Grup`,          previewType: 0,
                         thumbnail: await (await fetch(`https://i.ibb.co/5st560k/fake.jpg`)).buffer(),
                         sourceUrl: 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
