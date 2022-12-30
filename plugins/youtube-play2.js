@@ -17,7 +17,7 @@ if (command == 'play.2') {
 conn.reply(m.chat, `*_⏳ Wait,Video Sedang Di Proses...⏳_*`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: 'VIDEO',
-body: 'ᴹᴿ᭄ PutraModz ×፝֟͜×',         
+body: 'ᴹᴿ᭄ YatzModz ×፝֟͜×',         
 previewType: 0, thumbnail: await (await fetch('https://telegra.ph/file/6cbd342ec11f22fb85c0b.jpg')).buffer(),
 sourceUrl: `https://youtu.be/-7oTVcYR680`}}})
 let res = await fetch("https://api.dhamzxploit.my.id/api/ytplaymp4?text="+text)
