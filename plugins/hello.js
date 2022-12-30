@@ -9,7 +9,7 @@ conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply
     mediaUrl: "https://youtu.be/QOm1gEFbMdI",
     mediaType: 2,
     description: "hhttps://youtu.be/QOm1gEFbMdI", 
-    title: 'Nextbotz-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
+    title: 'Akenobotz-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig  }}})
