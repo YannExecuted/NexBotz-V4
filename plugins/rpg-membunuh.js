@@ -10,10 +10,10 @@ let nomors = m.sender
   if (!who) throw 'Tag salah satu lah'
   if (typeof db.data.users[who] == 'undefined') throw 'Pengguna tidak ada didalam data base'
   let __timers = (new Date - global.db.data.users[m.sender].lastrob)
-  let _timers = (3600000 - __timers) 
+  let _timers = (1800000 - __timers) 
   let timers = clockString(_timers)
   let users = global.db.data.users
-  if (new Date - global.db.data.users[m.sender].lastrob > 3600000){
+  if (new Date - global.db.data.users[m.sender].lastrob > 1800000){
   if (10 > users[who].health) throw 'ᴛᴀʀɢᴇᴛ ꜱᴜᴅᴀʜ ᴛɪᴅᴀᴋ ᴍᴇᴍɪʟɪᴋɪ ʜᴇᴀʟᴛʜ💉'
   if (100 > users[who].money) throw '💠ᴛᴀʀɢᴇᴛ ᴛɪᴅᴀᴋ ᴍᴇᴍɪʟɪᴋɪ ᴀᴘᴀᴘᴜɴ :(💠'
   users[who].health -= healtu * 1
