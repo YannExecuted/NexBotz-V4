@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://www.instagram.com/yatgremory'
+global.sig = 'https://www.instagram.com/yatgremory/'
 global.syt = 'https://www.youtube.com/@GremoryBotz'
 global.sgh = 'https://github.com/YannExecuted'
 global.sgc = 'hhttps://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
