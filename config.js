@@ -110,9 +110,9 @@ global.wm2 = 'YatzModz'
 global.wm3 = 'AkenoBotz | By YatzModz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `GremoryBotz | ʙʏ ${global.nameown}`
+global.titlebot = `AkenoBotz | ʙʏ ${global.nameown}`
 global.author = 'YatzModz' 
-global.packname = 'AkenoBotz'
+global.packname = 'Gremory'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'April 26 2007'
 
